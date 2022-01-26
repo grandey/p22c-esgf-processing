@@ -1,0 +1,11 @@
+# To create:
+# conda env create --file environment.yml
+# To update, recreate from scratch (due to --prune option of update not working):
+# conda env create --file environment.yml --force
+name: p22c-esgf-processing
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - notebook
+  - cdo

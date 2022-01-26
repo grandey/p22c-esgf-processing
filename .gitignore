@@ -2,6 +2,7 @@
 .DS_Store
 temp/
 temp_*
+*~
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
