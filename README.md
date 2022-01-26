@@ -2,7 +2,7 @@
 Post-processing of data that have been downloaded from ESGF, including CMIP6 data.
 
 ## Requirements and setup
-Data should already have been downloaded from ESGF (e.g. using [p22b-esgf-globus](https://github.com/grandey/p22b-esgf-globus).
+Data should already have been downloaded from ESGF (e.g. using [p22b-esgf-globus](https://github.com/grandey/p22b-esgf-globus)).
 
 Software requirements - including [CDO (Climate Data Operators)](https://code.mpimet.mpg.de/projects/cdo/) - can be installed via the [environment.yml](environment.yml) file with `conda`:
 ```
