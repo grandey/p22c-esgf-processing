@@ -4,8 +4,11 @@
 # conda env create --file environment.yml --force
 name: p22c-esgf-processing
 channels:
-  - defaults
   - conda-forge
+  - defaults
 dependencies:
   - notebook
-  - cdo
+  - cdo=2.*.*
+  - xarray
+  - NetCDF4
+  - python-cdo=1.5.*
