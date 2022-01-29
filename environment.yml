@@ -9,6 +9,7 @@ channels:
 dependencies:
   - notebook
   - cdo=2.*.*
+  - matplotlib
   - xarray
   - NetCDF4
   - python-cdo=1.5.*
