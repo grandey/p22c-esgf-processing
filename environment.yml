@@ -13,3 +13,4 @@ dependencies:
   - xarray
   - NetCDF4
   - python-cdo=1.5.*
+  - nco=5.*.*
