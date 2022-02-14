@@ -12,5 +12,6 @@ dependencies:
   - matplotlib
   - xarray
   - NetCDF4
+  - cartopy
   - python-cdo=1.5.*
   - nco=5.*.*
