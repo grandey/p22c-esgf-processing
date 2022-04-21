@@ -20,4 +20,4 @@ conda env create --file environment.yml --force
 B. S. Grandey (Nanyang Technological University), in collaboration with colleagues at NTU.
 
 ## Acknowledgements
-This research / project is supported by the National Research Foundation, Singapore, and Ministry of National Development, Singapore under its Urban Solutions and Sustainability Integration Fund (Award No.: USS-IF-2020-3).
+This Research/Project is supported by the National Research Foundation, Singapore, and National Environment Agency, Singapore under the National Sea Level Programme Funding Initiative (Award No. USS-IF-2020-3).
